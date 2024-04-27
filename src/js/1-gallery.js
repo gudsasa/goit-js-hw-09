@@ -106,7 +106,6 @@ var lightbox = new SimpleLightbox('.gallery a', {
   className: 'custom-lightbox',
   docClose: true,
   animationSpeed: 500,
-  // animationSlide:	true,
   fadeSpeed: 500,
   rtl: true,
 });
